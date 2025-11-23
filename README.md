@@ -69,24 +69,6 @@ Used during:
 
 ---
 
-## Full Project Report
-
-The complete Project-Based Learning (PBL) report is available here:
-
-➡ `docs/Expression Evaluator.pdf`
-
-This includes:
-- Abstract  
-- Introduction  
-- Objectives  
-- System Analysis  
-- Design  
-- Implementation  
-- Results & Discussion  
-- Conclusion  
-
----
-
 ## Conclusion
 
 This project successfully demonstrates the implementation of expression evaluation using stacks in C.  
