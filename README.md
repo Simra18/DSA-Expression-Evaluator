@@ -1,4 +1,3 @@
-# DSA-Expression-Evaluator
 # Expression Evaluator Using Stack in C
 
 This mini-project implements an **Expression Evaluator** in C as part of the **DSA (PBL) internal assessment**.  
