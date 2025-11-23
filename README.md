@@ -47,22 +47,6 @@ Since infix expressions cannot be directly evaluated due to operator precedence,
 
 ---
 
-## Project Structure
-
-```
-DSA-Expression-Evaluator/
-│
-├── src/
-│   └── Expression_evaluator.c
-│
-├── docs/
-│   └── Expression Evaluator.pdf      # Full PBL Report
-│
-└── README.md
-```
-
----
-
 ## Data Structures Used
 
 ### **1. Integer Stack**
