@@ -5,20 +5,6 @@ It demonstrates infix, postfix, and prefix evaluation using stack data structure
 
 ---
 
-## Team Members
-
-| Name | Roll Number |
-|------|-------------|
-| Vanshika Dhul | 1/24/SET/BCS/293 |
-| Simra Fatima | 1/24/SET/BCS/307 |
-
-**Faculty Mentor:** Ms. Rashi Sahay (Assistant Professor)  
-**Department:** CSE  
-**Institute:** MRIIRS  
-**Academic Year:** 2025–2026  
-
----
-
 ## Overview
 
 An expression evaluator computes the result of arithmetic expressions like:
@@ -85,4 +71,3 @@ Future enhancements may include:
 - Scientific functions  
 
 ---
-
